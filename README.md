@@ -1,4 +1,4 @@
-# 企业电费异常分析报告生成器
+﻿# 企业电费异常分析报告生成器
 
 > 管上千只电表的你，每月电费对账还要肉眼找异常？把清单丢给它：总体电费、按用途分类、异常用户、高耗能用户、新增流失用户，六板块 HTML 报告一键生成，逐月积累支持环比/同比。
 
@@ -50,8 +50,8 @@
 
 本工具同时发布为「星辰超级智能体（TeleAgent）」技能 **`electricity-bill-analysis`（企业电费异常分析报告）**，技能市场安装后直接说"电费分析""生成电费报告""防溺水简报"即可。
 
-配套技能：[`nanwang-daily-electricity-fetch`](https://github.com/cctvgh/nanwang-daily-electricity-fetch)（南网在线日电量监控与提醒）补齐日级数据时效。
+配套技能：[`nanwang-daily-electricity-fetch`](https://github.com/nanwang-daily-electricity-fetch)（南网在线日电量监控与提醒）补齐日级数据时效。
 
 ## License
 
-MIT © 2026 何汉锋
+MIT © 2026 Author
